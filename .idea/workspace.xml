@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc4d09fa-49cb-4b35-8c81-a8aed9a642c1" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Data Structure Yeheya" />
+  </component>
+  <component name="ProjectId" id="1RH42B94ajG6IOA592u6dt1QPUc" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568710999370" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SeqList_Student">
+    <configuration name="Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random" />
+      <module name="01.2.3  算法设计【例1.4】随机数集合" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeqList_Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeqList_Student" />
+      <module name="02.2.3  排序顺序表【例2.4】对象信息分类统计与查找" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SeqList_Student" />
+        <item itemvalue="Application.Random" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc4d09fa-49cb-4b35-8c81-a8aed9a642c1" name="默认更改列表" comment="" />
+      <created>1567903500048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567903500048</updated>
+      <workItem from="1567903508004" duration="83000" />
+      <workItem from="1567903733989" duration="1799000" />
+      <workItem from="1567908835391" duration="759000" />
+      <workItem from="1567941904349" duration="1076000" />
+      <workItem from="1567944098631" duration="853000" />
+      <workItem from="1567995274943" duration="5000" />
+      <workItem from="1568125267781" duration="36000" />
+      <workItem from="1568706260666" duration="4020000" />
+      <workItem from="1568711205720" duration="8000" />
+      <workItem from="1569310478411" duration="4365000" />
+      <workItem from="1569555713183" duration="50000" />
+      <workItem from="1569752282284" duration="46000" />
+      <workItem from="1569752359255" duration="6832000" />
+      <workItem from="1570281369380" duration="95000" />
+      <workItem from="1570349010563" duration="1920000" />
+      <workItem from="1570489161601" duration="3692000" />
+      <workItem from="1570513989576" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
